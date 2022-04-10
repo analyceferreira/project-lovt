@@ -10,11 +10,10 @@
 
 main, .conteiner {
     margin: 0 auto;
-    max-width: 800px;
-    
+    max-width: 1200px;
 }
 
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 1400px) {
     main, .conteiner {
         margin: 0 8vh;
     }
